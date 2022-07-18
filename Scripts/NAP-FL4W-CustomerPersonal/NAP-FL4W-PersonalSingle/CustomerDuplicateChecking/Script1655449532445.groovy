@@ -25,7 +25,7 @@ String userDir = System.getProperty('user.dir')
 String filePath = userDir + GlobalVariable.Path
 
 GlobalVariable.DataFilePath = filePath
-
+'asdjisad'
 String servername = findTestData('Login/Login').getValue(1, 9)
 
 String instancename = findTestData('Login/Login').getValue(2, 9)
